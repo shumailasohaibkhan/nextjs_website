@@ -24,4 +24,24 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+  .line-indicator li{
+    width:70px in !important;
+    height: 40px !important;
+    border-radius: 10px;
+    background-color: rgba(142,142142,0.5);
+
+
+  }
+  .line-indicator li_hover{
+    background-color: rgba(168,167,167,167,0.4);
+  }
+  .line-indicator li.slick-active{
+    background-color: #000000;
+  }
+
+
+
+
+
+
 }
